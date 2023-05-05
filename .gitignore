@@ -1,3 +1,10 @@
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/target/
+**/.gitignore
+**/.DS_Store
+
 **/HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -32,9 +39,4 @@ build/
 ### VS Code ###
 .vscode/
 
-**/mvnw
-**/mvnw.cmd
-**/.mvn
-**/target/
-**/.gitignore
-**/.DS_Store
+
