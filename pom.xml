@@ -6,7 +6,7 @@
 	<groupId>com.mcb</groupId>
 	<artifactId>immail</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>immail-product</name>
+	<name>immail</name>
 	<description>immail</description>
 	<packaging>pom</packaging>
 
@@ -16,5 +16,7 @@
 		<module>immail-order</module>
 		<module>immail-product</module>
 		<module>immail-ware</module>
+		<module>renren-fast</module>
+		<module>renren-generator</module>
 	</modules>
 </project>
