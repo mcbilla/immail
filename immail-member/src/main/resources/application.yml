@@ -1,11 +1,11 @@
 server:
-  port: 7000
+  port: 8000
 
 spring:
   datasource:
     #MySQL配置
     driverClassName: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://192.168.56.10:3306/immail_sms?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
+    url: jdbc:mysql://192.168.56.10:3306/immail_ums?useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Asia/Shanghai
     username: root
     password: root
 
